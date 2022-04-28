@@ -1,2 +1,5 @@
-# saas-common-system
-SaaS通用型系统
+# LaraVueAntDesign
+
+Laravel 7.0+
+Vue 2
+Ant Design
